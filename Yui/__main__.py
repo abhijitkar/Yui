@@ -5,5 +5,5 @@ from . import yuiai
 
 if __name__ == "__main__" :
     yuiai.start()
-    print("Yui is live! Join @NexaBotsUpdates")
+    print("𝙇𝙚𝙤𝙣𝙚 𝘿𝙞𝙙𝙞 { 🇮🇳 } is live! Join @GoldenTreeGroup")
     idle()
